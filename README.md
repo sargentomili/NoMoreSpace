@@ -1,4 +1,4 @@
-# NoMoreSpace
+# NoMoreSpace - NoMoreSpacePlease
 Aplicación de la práctica de Desarrollo de Aplicaciones Distribuidas de la URJC, curso 2020/2021: NoMoreSpacePlease!
 
 Este proyecto busca la creación de una web de almacenamiento de ficheros de manera distribuida, sin contar con un (por ejemplo) servidor NFS centralizado.
