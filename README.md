@@ -3,7 +3,7 @@ Aplicación de la práctica de Desarrollo de Aplicaciones Distribuidas de la URJ
 
 Este proyecto busca la creación de una web de almacenamiento de ficheros de manera distribuida, sin contar con un (por ejemplo) servidor NFS centralizado.
 En su lugar tendra "instancias" permanentes que almacenen estos ficheros y pueda escalar en función de los requisitos ademas de soportar toleracia a fallos (replicación).
-Cabe destacar que esas instancias, aun no tenemos la certeza de que seran finalmente, por el momento los llamaremos "Bloques".
+Cabe destacar que esas instancias, aun no tenemos la certeza de qué seran finalmente, por el momento los llamaremos "Bloques".
 
 # Entidades previstas para la aplicación:
 - Usuario(s) -> Que emplean la aplicación.
